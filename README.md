@@ -1,4 +1,4 @@
-# ArtPortfolio
-Website which showcases my personal art 
-Git svc used to manage the project
-HTML and CSS used , shows i am competant in all areas
+#HTML AND CSS used to create a basic website layout
+Index1.html shows the layout built using basic tecniques such as float for the containers
+
+Index2.html shows the layout built using the 
